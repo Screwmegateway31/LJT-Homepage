@@ -19,7 +19,7 @@ My research focuses on natural language processing and machine learning. My rese
 
 ## Publications
 
-Listed here are the publications that memory explicitly links from Junteng Liu by `co-author of` and does not link by `first author of`. The same set is listed on the [publications page](/publications/).
+The following publications are listed; the same set appears on the [publications page](/publications/).
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** — ICML 2024
 - **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** — NeurIPS 2023
@@ -33,5 +33,5 @@ Listed here are the publications that memory explicitly links from Junteng Liu b
 
 - Email: jliugi@connect.ust.hk
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
-- Google Scholar: [Google Scholar profile](https://scholar.google.com/circuitations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- Google Scholar: [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - X (Twitter): [@junteng88716710](https://x.com/junteng88716710)
